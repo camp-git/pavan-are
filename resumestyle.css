@@ -1,0 +1,92 @@
+/*HEADER- TITLE*/
+p
+{
+  color:#F8C471;
+  font-size:30px;
+  margin:10px 40px;
+ 
+}
+.head
+{
+  color:#ABB2B9;
+  font-size:20px;
+  font-family:Verdana;
+  text-align: justify;
+     
+}
+span{
+  font-size:15px;
+  color:#ABB2B9;
+}
+hr
+{
+	border:1px solid red;
+}
+/*.divider {
+  width: 1125px;
+  margin: 10px 0px;
+  border-top-width: 1px ;
+  border-top-style: solid;
+  border-top-color: #6273bf; 
+  padding-top: 4px;
+  padding-bottom: 4px;
+}*/
+.spacing
+{
+	position: relative;
+   left: 220px;
+   word-spacing: 190px;
+   color:#ABB2B9;
+   margin:10px 30px;
+   font-size:20px;
+}
+.work-experience
+{
+  padding:1.25em 0em 0em 0em;
+  font-family:verdana;
+  font-size:30px;
+  color:#17202A;
+}
+.work-exp-title
+{   
+	font-size:25px;
+	color:#85C1E9;
+}
+.work-exp-time,.work-exp-desc
+{
+   
+   font-size:22px;
+   color:#17202A;	
+   text-align: justify;
+}
+.project-image-space
+{
+	display:inline;
+}
+.education-right{
+	float:right;
+	font-size:20px;
+    color:#17202A;
+}
+.live
+{
+	color:#17202A;
+}
+.map
+{
+	padding:40px;
+	
+}
+.connect
+{
+	text-align:center;
+	font-size:20px;
+}
+.spacing-last
+{
+	  word-spacing: 280px;
+      font-size:20px;
+	  margin:20px 70px;
+	  
+	  
+}
